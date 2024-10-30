@@ -13747,5 +13747,12 @@
     "author": "Aly Thobani",
     "description": "Quickly add, change, or remove callout wrappers in your notes.",
     "repo": "alythobani/obsidian-callout-toggles"
+  },
+  {
+    "id": "share-as-zip",
+    "name": "Share as ZIP",
+    "description": "Share notes and their links as a zip folder.",
+    "author": "Till Friebe",
+    "repo": "friebetill/obsidian-share-as-zip"
   }
 ]
